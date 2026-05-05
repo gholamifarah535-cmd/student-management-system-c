@@ -1,11 +1,14 @@
 # Student Management System
 
-This project manages student data using C programming.
+Simple C program to manage student data using files.
 
-It allows:
-- Adding students
-- Displaying students
-- Modifying data
-- Deleting records
+## Features
+- Add student
+- Show students
+- Search student
+- Delete student
 
-Technologies: C language, File handling
+## Notes
+Uses structures and file handling in C.
+
+Author: Farah Gholami
