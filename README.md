@@ -11,4 +11,4 @@ Simple C program to manage student data using files.
 ## Notes
 Uses structures and file handling in C.
 
-Author: Farah Gholami
+Author: Farrah Gholami
